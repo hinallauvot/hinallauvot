@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hinallauvot
-- 👀 I’m interested in Cloud computing and Blockchain.
-- 🌱 I’m currently learning blockchain
+- 👀 I’m interested in Java, Spring Boot, and Microservices.
 - 💞️ I’m looking to collaborate on any open-source projects.
 - 📫 Contact me on - hinallauvot@gmail.com
 
